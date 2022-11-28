@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @joeSim12, software engineer STU
-- 🌱  currently learning java, c#, python and ASP
+- 👋 I’m mario, practical software engineer STU
+- 🌱  currently learning java, c#, php and python
 - 📫 reach me using G-mail : wajd.simaan@gmail.com
 - i'm always looking to work on small projects to make things more simple using : 
 <p align="left">
